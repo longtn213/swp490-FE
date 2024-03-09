@@ -1,0 +1,7 @@
+.stepper {
+    width: 80%;
+    max-width: 1000px !important;
+    height: auto;
+    margin: 0 auto;
+    padding: 40px 0;
+}

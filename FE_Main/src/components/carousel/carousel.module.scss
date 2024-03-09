@@ -1,0 +1,17 @@
+.slick-prev:before, .slick-next:before {
+  color: red !important;
+}
+
+.header {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: 15px 0;
+}
+
+/* .picture-container {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    resize: both !important;
+} */

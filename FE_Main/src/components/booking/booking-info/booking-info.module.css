@@ -1,0 +1,25 @@
+.container {
+    width: 100% !important;
+    max-width: 500px;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 0 auto;
+    margin-top: 36px;
+}
+
+.input {
+    margin: 10px 0 !important;
+}
+
+.form {
+    width: 90% !important;
+    margin: 15px 0 !important;
+}
+
+.validateerror {
+    color: red;
+}
+
+.errorcontainer {
+    height: 24px;
+}

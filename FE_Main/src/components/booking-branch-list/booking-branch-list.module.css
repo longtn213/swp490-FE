@@ -1,0 +1,20 @@
+.container {
+    width: 100% !important;
+    max-width: 370px;
+    margin: 0 auto !important;
+    padding-top: 5px !important;
+}
+
+.btn {
+    margin-top: 10px !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .branch-title {
+
+} */
+/* .branch-distance {
+    display: flex;
+    justify-content: flex-end !important;
+} */
